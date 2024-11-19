@@ -1,5 +1,5 @@
-# qatar_wc_analysis
-Analyze why did Argentina win the WC?
+# Qatar WC Analysis
+## Analyze why did Argentina win the WC?
 
 To provide a comprehensive analysis of the performance of teams participating in the World Cup and other international tournaments, we can focus on several key aspects:
 
